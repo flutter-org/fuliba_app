@@ -3,14 +3,6 @@
 * 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.6
 * 更新日期：2025-06-14
 
-# 3.5.5
-* 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.5
-* 更新日期：2025-06-13
-
-# 3.5.4
-* 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.4
-* 更新日期：2025-06-12
-
 # 3.5.3
 * 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.3
 * 更新日期：2024-08-02

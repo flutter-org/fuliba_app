@@ -1,4 +1,8 @@
 # 福利吧App发布页
+# 3.5.8
+* 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.8
+* 更新日期：2025-07-08
+
 # 3.5.7
 * 下载地址：https://github.com/flutter-org/fuliba_app/releases/tag/3.5.7
 * 更新日期：2025-06-21
